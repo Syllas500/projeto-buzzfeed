@@ -4,11 +4,9 @@
   margin-top: 20px;
 }
 
-.quiz_logo {
+.quizz_logo {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   margin-bottom: 10px;
 }
 
@@ -16,6 +14,7 @@
   margin-top: 20px;
   justify-content: center;
   align-items: center;
+  display: flex;
 }
 
 .quizz_questions {
